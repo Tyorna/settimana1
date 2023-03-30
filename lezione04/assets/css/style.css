@@ -5,7 +5,8 @@ body, html{
     color: #333;
     box-sizing: border-box;
     font-size: 0.8em;
-    background-image: url("img/sfondo.png");
+    background-image: url("../img/sfondo.png");
+    background-size: auto;
 }
 
 .blu{
@@ -31,6 +32,7 @@ img{
 
 .red{
     color: #e3e3e3;
+    text-decoration: none;
 }
 
 .red:hover{
